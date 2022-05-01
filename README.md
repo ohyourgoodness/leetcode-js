@@ -1,1 +1,4 @@
-# leetcode-js-
+# leetcode-js解法
+
+## 自己面试的时候刷题的答案
+## 欢迎纠错
